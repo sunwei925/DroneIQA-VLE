@@ -10,7 +10,7 @@
 
 *Official Implementation of "DroneIQA-VLE: Multi-Task Drone Image Quality Assessment via Vision-Language Ensemble"*
 
-[📖 Paper](https://arxiv.org/abs/2607.00416) | [📊 Challenge](https://chengyanjiang.github.io/icme26-droneiqa/)
+[📖 Report](https://arxiv.org/abs/2607.00416) | [📊 Challenge](https://chengyanjiang.github.io/icme26-droneiqa/)
 
 </div>
 
@@ -375,7 +375,7 @@ DroneIQA-VLE/
 
 ## 📚 Citation
 
-If you find this work useful for your research, please cite our paper:
+If you find this work useful for your research, please cite our report:
 
 ```bibtex
 @article{sun2026droneiqa,
